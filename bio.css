@@ -1,0 +1,29 @@
+#header {
+    text-align: center;
+    color: navy;
+
+}
+
+h2{
+    color: navy;
+}
+
+h3 {
+    color: blue;
+}
+
+#n1 {
+    font-weight: 900;
+}
+
+#t1 {
+    font-style: italic;
+}
+
+#one {
+    font-style: italic;
+}
+
+#last {
+    text-align: right;
+}
